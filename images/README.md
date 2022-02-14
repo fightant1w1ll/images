@@ -1,0 +1,1 @@
+A generic folder to save images that are not classified.
